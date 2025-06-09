@@ -1,5 +1,5 @@
 # Ignore Python virtual environment
 venv/
 
-# Ignore VS Code workspace file
-/Users/gauthamvecham/Desktop/dsa/dsa.code-workspace
+# Ignore VS Code workspace filed
+dsa.code-workspace/
