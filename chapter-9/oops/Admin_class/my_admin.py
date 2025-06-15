@@ -1,4 +1,4 @@
-from admin import Admin , Privileges
+from admin import Admin
 
 
 admin_1 = Admin("micheal","deming")
